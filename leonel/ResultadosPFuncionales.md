@@ -15,11 +15,11 @@ En este documento se presentan los resultados de las pruebas funcionales platead
 
 #### Registro de usuario con datos válidos
 
-![Registro de usuario con datos válidos](./images/frontend/C2.testRegisterScreenSuccess.png)
+![Registro de usuario con datos válidos](./images/frontend/C3.testRegisterScreenSuccess.png)
 
 #### Registro de usuario con datos inválidos
 
-![Registro de usuario con datos inválidos](./images/frontend/C2.testRegisterScreenFail.png)
+![Registro de usuario con datos inválidos](./images/frontend/C3.testRegisterScreenFail.png)
 
 ## Caso de prueba CP02
 
@@ -34,11 +34,11 @@ En este documento se presentan los resultados de las pruebas funcionales platead
 
 #### Inicio de sesión con datos válidos
 
-![Inicio de sesión con datos válidos](./images/frontend/C2.testLoginScreenSuccess.png)
+![Inicio de sesión con datos válidos](./images/frontend/C3.testLoginScreenSuccess.png)
 
 #### Inicio de sesión con datos inválidos
 
-![Inicio de sesión con datos inválidos](./images/frontend/C2.testLoginScreenFail.png)
+![Inicio de sesión con datos inválidos](./images/frontend/C3.testLoginScreenFail.png)
 
 ## Caso de prueba CP03
 
@@ -53,13 +53,13 @@ En este documento se presentan los resultados de las pruebas funcionales platead
 
 #### Reset de contraseña con datos válidos
 
-![Reset de contraseña con datos válidos](./images/frontend/C2.testResetPasswordEmailScreenSuccess.png)
-![Reset de contraseña con datos válidos](./images/frontend/C2.testResetPasswordScreenSuccess.png)
+![Reset de contraseña con datos válidos](./images/frontend/C3.testResetPasswordEmailScreenSuccess.png)
+![Reset de contraseña con datos válidos](./images/frontend/C3.testResetPasswordScreenSuccess.png)
 
 #### Reset de contraseña con datos inválidos
 
-![Reset de contraseña con datos inválidos](./images/frontend/C2.testResetPasswordEmailScreenFail.png)
-![Reset de contraseña con datos inválidos](./images/frontend/C2.testResetPasswordScreenFail.png)
+![Reset de contraseña con datos inválidos](./images/frontend/C3.testResetPasswordEmailScreenFail.png)
+![Reset de contraseña con datos inválidos](./images/frontend/C3.testResetPasswordScreenFail.png)
 
 ## Caso de prueba CP04
 
@@ -73,9 +73,9 @@ En este documento se presentan los resultados de las pruebas funcionales platead
 
 #### Lectura y actualización de perfil
 
-![Lectura de perfil](./images/frontend/C2.testGetProfileScreen.png)
+![Lectura de perfil](./images/frontend/C3.testGetProfileScreen.png)
 
-![Actualización de perfil](./images/frontend/C2.testUpdateProfileScreen.png)
+![Actualización de perfil](./images/frontend/C3.testUpdateProfileScreen.png)
 
 ## Caso de prueba CP05
 
@@ -90,11 +90,11 @@ En este documento se presentan los resultados de las pruebas funcionales platead
 
 #### Cambio de contraseña con datos válidos
 
-![Cambio de contraseña con datos válidos](./images/frontend/C2.testChangePasswordScreenSuccess.png)
+![Cambio de contraseña con datos válidos](./images/frontend/C3.testChangePasswordScreenSuccess.png)
 
 #### Cambio de contraseña con datos inválidos
 
-![Cambio de contraseña con datos inválidos](./images/frontend/C2.testChangePasswordScreenFail.png)
+![Cambio de contraseña con datos inválidos](./images/frontend/C3.testChangePasswordScreenFail.png)
 
 ## Caso de prueba CP06
 
@@ -108,12 +108,12 @@ En este documento se presentan los resultados de las pruebas funcionales platead
 
 <!-- #### Inserción de producto a favoritos -->
 
-<!-- ![Inserción de producto a favoritos](./images/frontend/C2.testAddFavoriteProductScreen.png)  -->
+<!-- ![Inserción de producto a favoritos](./images/frontend/C3.testAddFavoriteProductScreen.png)  -->
 
 #### Lectura de productos favoritos
 
-![Lectura de productos favoritos](./images/frontend/C2.testGetFavoriteProductsScreen.png)
+![Lectura de productos favoritos](./images/frontend/C3.testGetFavoriteProductsScreen.png)
 
 #### Eliminación de producto de favoritos
 
-![Eliminación de producto de favoritos](./images/frontend/C2.testRemoveFavoriteProductScreen.png)
+![Eliminación de producto de favoritos](./images/frontend/C3.testRemoveFavoriteProductScreen.png)
