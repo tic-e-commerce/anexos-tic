@@ -1,8 +1,8 @@
-# Anexos TIC
+# Captura de Implementacion
 
-En este documento se presentan los anexos relacionados con el desarrollo e implementación de los microfrontends y microservicios descritos en el documento del TIC. Estos anexos incluyen capturas de pantalla que complementan la documentación del proyecto.
+En este documento se presentan las capturas de pantalla de la implementación de los microservicios y microfrontends desarrollados en el proyecto de TIC.
 
-## Anexo 1 - Microservicios
+## Microservicios
 
 ### Capturas de pantalla - Microservicio de Autenticación
 
@@ -37,7 +37,7 @@ En este documento se presentan los anexos relacionados con el desarrollo e imple
 - Endpoint de Eliminación de Producto Favorito
   ![Endpoint de Eliminación de Producto Favorito](./images/backend/C2.testUserPrefDeleteFavProductSuccess.png)
 
-## Anexo 2 - Microfrontends
+## Microfrontends
 
 ### Capturas de pantalla - Microfrontend de Autenticación
 
