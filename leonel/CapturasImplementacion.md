@@ -1,4 +1,4 @@
-# Captura de Implementacion
+# Capturas de Implementacion
 
 En este documento se presentan las capturas de pantalla de la implementación de los microservicios y microfrontends desarrollados en el proyecto de TIC.
 
@@ -10,7 +10,7 @@ En este documento se presentan las capturas de pantalla de la implementación de
   ![Endpoint de Registro](./images/backend/C2.testAuthRegisterSuccess.png)
 - Endpoint de Inicio de Sesión
   ![Endpoint de Inicio de Sesión](./images/backend/C2.testAuthLoginSuccess.png)
-- Endpoinr de envío de correo de cambio de contraseña
+- Endpoint de envío de correo de cambio de contraseña
   ![Endpoint de Cambio de Contraseña](./images/backend/C2.testAuthSendResetPasswordEmailSuccess.png)
 - Endpoint de Cambio de Contraseña
   ![Endpoint de Cambio de Contraseña](./images/backend/C2.testAuthResetPasswordSuccess.png)
@@ -42,12 +42,26 @@ En este documento se presentan las capturas de pantalla de la implementación de
 ### Capturas de pantalla - Microfrontend de Autenticación
 
 - Pantalla de Inicio de Sesión
-  ![Pantalla de Inicio de Sesión](./images/frontend/C2.testLoginScreen.png)
+  ![Pantalla de Inicio de Sesión](./images/frontend/C2.loginScreenImplemented.png)
+
+- Pantalla de Registro
+  ![Pantalla de Registro](./images/frontend/C2.registerScreenImplemented.png)
+
+- Pantalla de envio de email de reseteo de contraseña
+  ![Pantalla de envio de email de reseteo de contraseña](./images/frontend/C2.resetPasswordEmailScreenImplemented.png)
+
+- Pantalla de reseteo de Contraseña
+  ![Pantalla de reseteo de Contraseña](./images/frontend/C2.resetPasswordScreenImplemented.png)
 
 ### Capturas de pantalla - Microfrontend de Perfil
 
 - Pantalla de Perfil
-  ![Pantalla de Perfil](./images/frontend/C2.testProfileInfoScreen.png)
+  ![Pantalla de Perfil](./images/frontend/C2.profileInfoScreenImplemented.png)
 
 - Pantalla de Cambio de Contraseña
-  ![Pantalla de Cambio de Contraseña](./images/frontend/C2.testProfileChangePasswordScreen.png)
+  ![Pantalla de Cambio de Contraseña](./images/frontend/C2.profileChangePasswordScreenImplemented.png)
+
+### Capturas de pantalla - Microfrontend de Preferencias de Usuario
+
+- Pantalla de Productos Favoritos
+  ![Pantalla de Productos Favoritos](./images/frontend/C2.userPrefFavProductsScreenImplemented.png)
