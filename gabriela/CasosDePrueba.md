@@ -89,7 +89,7 @@
 | **Resultados Obtenidos** | La orden fue cancelada correctamente y el estado se actualizó.                                                              |
 
 
-## Microfrontend: Pagos
+## Microfrontend: Pagos 
 | **ID**                   | CP05                                                                                                                        |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | **Historia de Usuario**  | HU05                                                                                                                        |
