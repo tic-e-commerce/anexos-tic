@@ -15,7 +15,7 @@ Este documento presenta los resultados de las pruebas funcionales ejecutadas seg
 
 #### Agregar producto al carrito.
 
-![Agregar producto exitoso](../frontend/add-items-cart.png)
+<!-- ![Agregar producto exitoso](../frontend/add-items-cart.png) -->
 
 #### Intento de agregar producto sin autenticación.
 
