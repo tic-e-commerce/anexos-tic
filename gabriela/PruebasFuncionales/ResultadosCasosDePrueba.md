@@ -17,7 +17,7 @@ Este documento presenta los resultados de las pruebas funcionales ejecutadas seg
 
 ![Agregar producto exitoso](../frontend/add-items-cart.png)
 
-#### Intento de agregar producto sin autenticación
+#### Intento de agregar producto sin autenticación.
 
 ![Error al agregar producto](../frontend/add-items-cart-without-authentication.png)
 
@@ -34,11 +34,11 @@ Este documento presenta los resultados de las pruebas funcionales ejecutadas seg
 
 ### Capturas de pantalla
 
-#### Visualización del carrito con productos
+#### Visualización del carrito con productos.
 
 ![Carrito con productos](../frontend/view-cart-items.png)
 
-#### Visualización del carrito vacío
+#### Visualización del carrito vacío.
 
 ![Carrito vacío](../frontend/empty-cart.png)
 
@@ -55,11 +55,11 @@ Este documento presenta los resultados de las pruebas funcionales ejecutadas seg
 
 ### Capturas de pantalla
 
-#### Actualizar cantidad de productos en el carrito
+#### Actualizar cantidad de productos en el carrito.
 
 ![Cantidad actualizada](../frontend/update-shipping-method.png)
 
-#### Intento de agregar más productos que el stock
+#### Intento de agregar más productos que el stock.
 
 ![Stock insuficiente](../frontend/insufficient-stock.png)
 
@@ -75,7 +75,7 @@ Este documento presenta los resultados de las pruebas funcionales ejecutadas seg
 
 ### Capturas de pantalla
 
-#### Eliminar producto del carrito
+#### Eliminar producto del carrito.
 
 ![Producto eliminado](../frontend/remove-cart-item.png)
 
